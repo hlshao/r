@@ -49,3 +49,7 @@ write.csv(data,"iris_csv.csv")
 # 4.（加分題）有多少男性？女性？
 # 5.（加分題）有多少男性（女性）生/死？
 # 6.（加分題）性別與生死有無關係？
+
+# homework 2
+# make yourself datasheet
+
