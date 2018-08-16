@@ -60,6 +60,10 @@ boxplot(Sepal.Length ~ Species, data_i)
 #最小值區間：Q1 – 1.5 * (Q3-Q1)，以橫線表示
 #離群值：超過最大值區間或最小值區間的樣本，以圈圈表示
 
+# output
+png("boxplot.png", width=600, height=600)
+dev.off() 
+
 #homework
 # 1.請讀入titatic_csv.csv檔案，並畫出艙等的直方圖。
 # 2.請畫出性別與艙等的plot圖。比較與iris有什麼不同？為什麼？
