@@ -64,8 +64,9 @@ boxplot(Sepal.Length ~ Species, data_i)
 png("boxplot.png", width=600, height=600)
 dev.off() 
 
-#homework
+# homework
 # 1.請讀入titatic_csv.csv檔案，並畫出艙等的直方圖。
-# 2.請畫出性別與艙等的plot圖。比較與iris有什麼不同？為什麼？
-# 3.讀取你自己的datasheet，並探索如何呈現最好，並做一張圖。
-# 4.(加分題）探索使用ggplot，並做一張圖。
+# 2.請畫出花瓣（petal）長寬的散點圖，並加上趨勢線。並說明趨勢線是用來做什麼的？
+# 3.請畫出性別與艙等的plot圖。比較與iris有什麼不同？為什麼？
+# 4.讀取你自己的datasheet，並探索如何呈現最好，並做一張圖。
+# 5.(加分題）探索使用ggplot，並做一張圖。
