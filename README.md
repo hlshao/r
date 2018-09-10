@@ -1,4 +1,12 @@
-# Specifying an R environment with a runtime.txt file
+# 「數位人文學」課堂使用說明
+
+1. 依照課堂進度，閱讀教學影片，完成L1~L3。
+
+2. 如果擔心破壞原來教材，可以另存新檔再做。
+
+
+
+# Original NOTE Specifying an R environment with a runtime.txt file
 
 Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
 
