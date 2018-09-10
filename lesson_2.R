@@ -65,3 +65,6 @@ dev.off()
 # 3.請畫出性別與艙等的plot圖。比較與iris有什麼不同？為什麼？
 # 4.讀取你自己的datasheet，並探索如何呈現最好，並做一張圖。
 # 5.(加分題）探索使用ggplot，並做一張圖。
+
+#homework2 
+##  Do yourself data
