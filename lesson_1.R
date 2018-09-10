@@ -15,6 +15,9 @@ data_csv=read.csv(DO)
 ## 請跳過第一種方法 data_xlsx=read.xlsx("iris.xlsx",sheetIndex = 1)
 #請從這裡繼續
 
+library(xlsx)
+data_xlsx=read.xlsx("iris.xlsx",sheetIndex = 1)
+
 # way 3-1, read from xlsx
 library(readxl)
 data_xlsx2=DO
