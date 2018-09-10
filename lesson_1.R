@@ -10,13 +10,9 @@ data=iris
 data_csv=read.csv(DO)
 
 # way 3, read from xlsx
-
 ## 請跳過第一種方法 library(xlsx)
 ## 請跳過第一種方法 data_xlsx=read.xlsx("iris.xlsx",sheetIndex = 1)
-#請從這裡繼續
-
-library(xlsx)
-data_xlsx=read.xlsx("iris.xlsx",sheetIndex = 1)
+# 請從這裡繼續
 
 # way 3-1, read from xlsx
 library(readxl)
